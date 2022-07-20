@@ -1,4 +1,5 @@
 //git test
+// git merge test to remote
 
 //Note: Do not repeat yourself
 //
